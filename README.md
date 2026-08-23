@@ -26,7 +26,8 @@
 
 ### 🧬 Profile Overview
 
-* 🚀 **Building:** [Echo Settings](https://github.com/dezaetterg/echo-settings) — Modern system control center for GNOME & Wayland.
+* 🚀 **Building:** [Echo Settings](https://github.com/dezaetterg/echo-settings) - Modern system control center for GNU/Linux
+* 🔍 **Building** [Echo Search](https://github.com/dezaetterg/echo-search) - 
 * 🛠️ **Stack:** Python 3.13+, PySide6 / Qt6, D-Bus IPC, GSettings, PipeWire.
 * 🎯 **Aesthetic:** Minimalist fluid UI, deep system integration, zero latency.
 
