@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/dezaetterg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=dezaetter;Echo+Linux+Desktop+Project;Native+GTK4+%26+Qt6+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=32&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=520&lines=dezaetter;Echo+Linux+Desktop+Project;Native+GTK4+%26+Qt6+Interfaces" alt="Typing SVG" />
 </a>
 
 <p>
