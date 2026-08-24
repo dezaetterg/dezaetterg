@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="banner.jpg" width="100%" alt="Going against the stream" style="border-radius: 8px; border: 1px solid #30363d;" />
-
-<br/><br/>
-
-# dezaetter
-
-Building desktop environments, system tools and native interfaces for Linux.
-
-[![Telegram](https://img.shields.io/badge/Telegram-@echoui-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/echoui)
-[![TikTok](https://img.shields.io/badge/TikTok-@echo.linux-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@echo.linux)
-[![GitHub](https://img.shields.io/badge/GitHub-dezaetterg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dezaetterg)
+<img src="logo.png" width="130" alt="Echo Liquid Glass Logo" />
 
 <br/>
+
+<a href="https://github.com/dezaetterg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=dezaetter;Echo+Linux+Desktop+Project;Native+GTK4+%26+Qt6+Interfaces" alt="Typing SVG" />
+</a>
+
+<p>
+Building desktop environments, system tools and native interfaces for Linux.
+</p>
+
+<p>
+  <a href="https://t.me/echoui"><img src="https://img.shields.io/badge/Telegram-@echoui-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.tiktok.com/@echo.linux"><img src="https://img.shields.io/badge/TikTok-@echo.linux-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://github.com/dezaetterg"><img src="https://img.shields.io/badge/GitHub-dezaetterg-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dezaetterg&style=flat-square&color=7aa2f7&label=Views" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -39,5 +44,5 @@ Building desktop environments, system tools and native interfaces for Linux.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dezaetterg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezaetterg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dezaetterg&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7" height="150" alt="GitHub Streak" />
 </div>
