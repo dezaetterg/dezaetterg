@@ -9,7 +9,7 @@
 </a>
 
 <p>
-Building desktop environments, system tools and native interfaces for Linux.
+Building native desktop environments, system tools and fluid interfaces for Linux.
 </p>
 
 <p>
@@ -21,12 +21,18 @@ Building desktop environments, system tools and native interfaces for Linux.
 
 </div>
 
+## About
+
+I am an independent developer focusing on Linux desktop ergonomics and modern visual design. My primary focus is the Echo ecosystem: creating fast, native tools with a refined Liquid Glass aesthetic that make Linux comfortable for daily use.
+
+I design and build everything from low-level D-Bus integrations and background daemons to custom GTK4 and Qt6 interfaces.
+
 ## Projects
 
 | Project | Description | Stack | Release |
 | :--- | :--- | :---: | :---: |
-| **[Echo Search](https://github.com/dezaetterg/echo-search)** | Application launcher, file search via Tracker, clipboard history, calc. | `GTK 4` `Layer Shell` `Python` | [![Version](https://img.shields.io/badge/release-v1.0.6-blue.svg?style=flat-square)](https://github.com/dezaetterg/echo-search/releases) |
-| **[Echo Settings](https://github.com/dezaetterg/echo-settings)** | Modular control center and settings app with 13 language localizations. | `Qt6` `PySide6` `D-Bus` | [![Version](https://img.shields.io/badge/release-v1.0.1-blue.svg?style=flat-square)](https://github.com/dezaetterg/echo-settings/releases) |
+| **[Echo Search](https://github.com/dezaetterg/echo-search)** | Application launcher, file search via Tracker, clipboard history, smart calculator and converters. | `GTK 4` `Layer Shell` `Python` | [![Version](https://img.shields.io/badge/release-v1.0.8-blue.svg?style=flat-square)](https://github.com/dezaetterg/echo-search/releases) |
+| **[Echo Settings](https://github.com/dezaetterg/echo-settings)** | Modular system control center and onboarding suite with multi-distro packages. | `Qt6` `PySide6` `D-Bus` | [![Version](https://img.shields.io/badge/release-v1.0.3-blue.svg?style=flat-square)](https://github.com/dezaetterg/echo-settings/releases) |
 
 ## Stack
 
@@ -40,9 +46,14 @@ Building desktop environments, system tools and native interfaces for Linux.
 * Linux subsystems and protocols: D-Bus (Jeepney, dbus-next), GSettings, Wayland Layer Shell, X11, Tracker 3, PipeWire, NetworkManager
 * Packaging: Debian (.deb), RPM (.rpm), Arch Linux (PKGBUILD)
 
-## Stats
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dezaetterg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dezaetterg&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=7AA2F7&area=true&hide_title=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dezaetterg&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakNum=7AA2F7" height="150" alt="GitHub Streak" />
 </div>
